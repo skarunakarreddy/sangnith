@@ -3,7 +3,7 @@ class hello{
     System.out.println("Hai guys..............");
     System.out.println("Welcome to jenkins.....");
     System.out.println("updated by reddy .....");
-    System.out.println("updated-2 by reddy .....");
+    System.out.println("updated-1 by reddy .....");
     System.out.println("updated-2 by reddy .....");
     
   }
